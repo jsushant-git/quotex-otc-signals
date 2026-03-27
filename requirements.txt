@@ -3,3 +3,4 @@ quotexpy
 pandas
 plotly
 nest_asyncio
+setuptools
