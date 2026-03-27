@@ -1,0 +1,5 @@
+streamlit
+quotexpy
+pandas
+plotly
+nest_asyncio
