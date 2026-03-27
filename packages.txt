@@ -1,3 +1,4 @@
+# Playwright + undetected_chromedriver system dependencies
 libnss3
 libnspr4
 libatk1.0-0
@@ -13,3 +14,7 @@ libxkbcommon0
 libpango-1.0-0
 libcairo2
 libasound2
+
+# Critical for undetected_chromedriver + quotexpy on Streamlit Cloud
+chromium
+chromium-driver
