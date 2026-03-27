@@ -1,6 +1,0 @@
-streamlit
-quotexpy
-pandas
-pandas_ta
-plotly
-nest_asyncio
